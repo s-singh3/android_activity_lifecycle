@@ -1,4 +1,4 @@
-# Shreni-Lab1: Hello Android Application - Activity Lifecycle
+# Shreni-Lab1: "Hello Android" Application - Activity Lifecycle
 
 ## 0.1 Abstract
 
